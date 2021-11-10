@@ -10,5 +10,6 @@
 * Junit 4
 * Log4J
 
+! Enter email and password in constants/Variables.java for login test!
 ! It only works on products that ask for body information.
 
